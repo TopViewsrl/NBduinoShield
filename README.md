@@ -7,10 +7,10 @@ NBduino is the new shield that allows you to send data from your Arduino board d
 
 The key features are:
 - **Plug & Play** (Arduino compatible)
-- Power modes (USB or LiPo battery)
+- **Power modes** (USB or LiPo battery)
 - **Low Power** (5µA)
 - **Long range** (up to 7Km)
-- Cloud Storage (MQTT Broker ready)
+- **Cloud Storage** (MQTT Broker ready)
 
 ## Examples
 
