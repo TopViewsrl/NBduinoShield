@@ -10,7 +10,7 @@
 */
 #include <NBduinoLibrary.h>
 
-NBduino NBiot("54.76.137.235", 18224, "test", "test");
+NBduino NBiot("xxx.xxx.xxx.xxx", xxxxx, "xxxxx", "xxxxx"); //IP,port,user,password
 char Topic[32];
 
 void setup() {
