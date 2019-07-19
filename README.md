@@ -9,7 +9,7 @@ The key features are:
 - **Plug & Play** (Arduino compatible)
 - **Power modes** (USB or LiPo battery)
 - **Low Power** (5µA)
-- **Long range** (up to 7Km)
+- **Long range** (up to 15Km)
 - **Cloud Storage** (MQTT Broker ready)
 
 ## Examples
